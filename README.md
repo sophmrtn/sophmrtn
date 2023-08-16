@@ -31,7 +31,8 @@ Currently I'm working on **developing and evaluating of interpretable deep model
 - Mobile app development
 - C++
 - Jax
-
+- React
+- Flutter
 
 
 <!--
