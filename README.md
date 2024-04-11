@@ -10,7 +10,7 @@ Currently I'm working on **developing and evaluating interpretable deep learning
 - Computer vision (vision transformers, neural networks)
 - Interpretability and explainability (saliency mapping, robustness, fairness, context-specific evaluation) 
 - Applications in healthcare (medical imaging, personalised medicine, big data) 
-- Web development (building websites for non-profits and start-ups)
+- Web development (building websites for non-profits)
 
 ---
 
