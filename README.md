@@ -2,7 +2,7 @@
 
 I'm a PhD student at University College London in the [Centre for Medical Image Computing](https://www.ucl.ac.uk/medical-image-computing/centre-medical-image-computing-cmic) and member of the [MANIFOLD Lab.](https://manifold-lab.netlify.app)
 
-Currently I'm working on **developing and evaluating interpretable deep learning for dementia prediction.**
+Currently I'm working on **developing and evaluating explainable AI methods for dementia prediction.**
 
 ---
 ### 💡 What am I interested in? ###
