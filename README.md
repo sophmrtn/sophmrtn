@@ -1,6 +1,6 @@
 ## Hi! I'm Sophie Martin 👋🏽 
 
-I'm a PhD student at University College London in the [Centre for Medical Image Computing](https://www.ucl.ac.uk/medical-image-computing/centre-medical-image-computing-cmic) and member of the [MANIFOLD Lab.](https://manifold-lab.netlify.app)
+I'm a Research Fellow at University College London in the [MANIFOLD Lab](https://manifold-lab.netlify.app) within the [UCL Hawkes Institute](https://www.ucl.ac.uk/hawkes-institute).
 
 Currently I'm working on **developing and evaluating explainable AI methods for dementia prediction.**
 
