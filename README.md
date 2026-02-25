@@ -2,7 +2,7 @@
 
 I'm a Research Fellow at University College London in the [MANIFOLD Lab](https://manifold-lab.netlify.app) within the [UCL Hawkes Institute](https://www.ucl.ac.uk/hawkes-institute).
 
-Currently I'm working on **applying neuroimaging analysis pipelines on population-scale hospital datasets to understand their real-world utility.**
+Currently I'm working on **applying neuroimaging analysis pipelines on population-scale hospital data to assess their real-world utility.**
 
 ---
 ### 💡 What am I interested in? ###
@@ -33,7 +33,8 @@ Currently I'm working on **applying neuroimaging analysis pipelines on populatio
 - C++
 - React
 
-
+---
+Feel free to contact me by 💌 [email](mailto:sophie.a.martin@ucl.ac.uk) to talk more!
 <!--
 **sophmrtn/sophmrtn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
