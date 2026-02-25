@@ -1,15 +1,15 @@
-## Hi! I'm Sophie Martin 👋🏽 
+## Hi! I'm Sophie 💐
 
 I'm a Research Fellow at University College London in the [MANIFOLD Lab](https://manifold-lab.netlify.app) within the [UCL Hawkes Institute](https://www.ucl.ac.uk/hawkes-institute).
 
-Currently I'm working on **developing and evaluating explainable AI methods for dementia prediction.**
+Currently I'm working on **applying neuroimaging analysis pipelines on population-scale hospital datasets to understand their real-world utility.**
 
 ---
 ### 💡 What am I interested in? ###
 
-- Computer vision (vision transformers, neural networks)
-- Interpretability and explainability (saliency mapping, robustness, fairness, context-specific evaluation) 
-- Applications in healthcare (medical imaging, personalised medicine, big data) 
+- Deep learning methods (vision transformers, neural networks, foundation models)
+- Interpretability and explainability (uncertainity, bias, context-aware validation) 
+- Applications to healthcare (medical imaging, personalised medicine, big data, generalisability) 
 - Web development (building websites for non-profits)
 
 ---
@@ -25,14 +25,13 @@ Currently I'm working on **developing and evaluating explainable AI methods for 
 - Javascript
 
 ---
-### 🌱 What would I like to learn next? ###
+### 🌱 What would I like or explore to learn next? ###
 
 - Natural language programming
+- Agentic AI for healthcare
 - Mobile app development
 - C++
-- Jax
 - React
-- Flutter
 
 
 <!--
